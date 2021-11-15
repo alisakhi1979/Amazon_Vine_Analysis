@@ -11,13 +11,13 @@ Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
 
 ##C) Results
 
--Total number of paid vine reviews: 94
--Total number of 5-star paid vine reviews: 48
--Percentage of 5-star paid vine reviews: 51 %
+-Total number of paid vine reviews: 94__
+-Total number of 5-star paid vine reviews: 48__
+-Percentage of 5-star paid vine reviews: 51 %__
 
--Total number of unpaid vine reviews: 40471
--Total number of 5-star unpaid vine reviews: 15663
--Percentage of 5-star unpaid vine reviews: 39 %
+-Total number of unpaid vine reviews: 40471__
+-Total number of 5-star unpaid vine reviews: 15663__
+-Percentage of 5-star unpaid vine reviews: 39 %__
 
 ##Summary
 
